@@ -3,6 +3,12 @@
   "displayName": "DimasLight",
   "description": "Light theme for VSCode by Dimas",
   "version": "0.0.1",
+  "publisher": "Dimas1995",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimarud1995/VSCodeThemeLight"
+  },
+  "keywords": ["theme","light","Dimas1995","light theme","themes", "dimas light"],
   "engines": {
     "vscode": "^1.76.0"
   },
