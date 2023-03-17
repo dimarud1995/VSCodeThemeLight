@@ -8,7 +8,15 @@
     "type": "git",
     "url": "https://github.com/dimarud1995/VSCodeThemeLight"
   },
-  "keywords": ["theme","light","Dimas1995","light theme","themes", "dimas light"],
+  "icon": "logo.png",
+  "keywords": [
+    "theme",
+    "light",
+    "Dimas1995",
+    "light theme",
+    "themes",
+    "dimas light"
+  ],
   "engines": {
     "vscode": "^1.76.0"
   },
