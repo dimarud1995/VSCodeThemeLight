@@ -10,6 +10,8 @@
     "editor.selectionBackground": "#e8e8e8",
     /// "editor.selectionHighlightBackground": "#ff0000",
     "editor.wordHighlightBackground": "#09ff0050",
+    "editor.wordHighlightStrongBackground": "#09ff0050",
+    "editor.wordHighlightStrongBorder": "#1ac33f",
     // "editor.wordHighlightBorder": "#09ff0059",
     "editor.findMatchBackground": "#f5f5f5",
     "editor.findMatchBorder": "#5b5b5b",
@@ -110,7 +112,8 @@
       "name": "Functions",
       "scope": ["entity.name.function", "support.function"],
       "settings": {
-        "foreground": "#2773d6f0",
+        // "foreground": "#079222",
+        "foreground": "#2773d6E1",
         // "foreground": "#2773d6E0",
 
         "fontStyle": "bold"
@@ -126,8 +129,9 @@
         "variable.other.object.tsx"
       ],
       "settings": {
-        "fontStyle": "bold",
-        "foreground": "#00777eF3"
+        // "fontStyle": "bold",
+        // "foreground": "#00777eF3"
+        "foreground": "#08a4a7"
       }
     },
     {
@@ -156,7 +160,7 @@
       "name": "Strings",
       "scope": ["string"],
       "settings": {
-        "foreground": "#097c24"
+        "foreground": "#079222"
       }
     },
     {
@@ -225,7 +229,7 @@
       "name": "HTML: Tag Names",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#00777e",
+        "foreground": "#08A4A7",
         "fontStyle": "bold"
       }
     },
