@@ -2,8 +2,6 @@
 
 # Dimas Light ☀️
 
-## Examples:
-
 ### JS:
 
 ![JS](./examples/v1/screenshots/js.png)
