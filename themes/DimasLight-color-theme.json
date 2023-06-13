@@ -27,7 +27,12 @@
     "editorLink.activeForeground": "#388a8a",
     "panel.background": "#fefefe",
     "sideBar.foreground": "#444444",
-    "terminal.ansiBrightBlue": "#2773d6f0"
+    "terminal.ansiBrightBlue": "#2773d6f0",
+    "list.hoverBackground": "#09ff0030",
+    "list.activeSelectionBackground": "#09ff0059",
+    "list.activeSelectionForeground": "#444444",
+    "list.focusOutline": "#09ff00",
+    "activityBar.activeBorder": "#09ff00aa"
   },
   "tokenColors": [
     {
